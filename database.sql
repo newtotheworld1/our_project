@@ -1,1 +1,2 @@
-select * from accounts ;
+ECHO is on.
+select * from emp ; 
